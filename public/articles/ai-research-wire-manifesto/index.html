@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Research Wire Manifesto — AI Research Wire</title>
+<meta name="description" content="A first-principles blueprint for a static, citation-first AI research publication that agents can update through pull requests.">
+<link rel="canonical" href="https://agilentic.github.io/ai-research-wire/articles/ai-research-wire-manifesto/">
+<link rel="stylesheet" href="/ai-research-wire/assets/styles.css">
+<script defer src="/ai-research-wire/assets/site.js"></script>
+<meta property="og:title" content="AI Research Wire Manifesto — AI Research Wire">
+<meta property="og:description" content="A first-principles blueprint for a static, citation-first AI research publication that agents can update through pull requests.">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"AI Research Wire","url":"https://agilentic.github.io/ai-research-wire/"}</script></head>
+<body>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="brand" href="/ai-research-wire/"><span class="brand-mark">AI↯RW</span><span class="brand-text">AI Research Wire</span></a>
+      <nav class="nav" aria-label="Primary">
+        <a href="/ai-research-wire/">Home</a>
+        <a href="/ai-research-wire/feed.xml">RSS</a>
+        <a href="/ai-research-wire/llms.txt">llms.txt</a>
+        <a href="https://github.com/agilentic/ai-research-wire">GitHub</a>
+        <button class="theme-toggle" data-theme-toggle type="button">Theme</button>
+      </nav>
+    </header>
+    
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "AI Research Wire Manifesto", "datePublished": "2026-07-02", "articleSection": "agentic workflows", "description": "A first-principles blueprint for a static, citation-first AI research publication that agents can update through pull requests.", "url": "https://agilentic.github.io/ai-research-wire/articles/ai-research-wire-manifesto/", "publisher": {"@type": "Organization", "name": "AI Research Wire"}}</script>
+<div class="article-layout">
+  <main class="article-body">
+    <div class="article-meta"><span>2026-07-02</span><span>•</span><span>6 min</span><span>•</span><span class="category">agentic workflows</span></div>
+    <h1 id="ai-research-wire-manifesto">AI Research Wire Manifesto</h1>
+<p>AI Research Wire is designed as a research-native publication: fast like a static site, dense like a personal knowledge base, and structured enough for agents to maintain it through pull requests.</p>
+<p>The editorial model borrows two useful ideas. From Gwern.net, it borrows long-form essays, careful linking, source trails, marginal notes, and the assumption that the best writing gets more valuable as it accumulates context. From TuringWire, it borrows publication discipline: recurring briefings, categories, feeds, structured data, and a public surface that feels current.</p>
+<h2 id="operating-principles">Operating principles</h2>
+<ul>
+<li>GitHub is the source of truth. Every article, metadata edit, workflow change, and design change is reviewable as a diff.</li>
+<li>Markdown is the durable writing format. Research essays live in <code>research/posts/*.md</code> and can be edited by humans or Hermes.</li>
+<li>Metadata is explicit. <code>data/articles.json</code> controls listings, categories, summaries, featured posts, dates, and source links.</li>
+<li>Publishing is automated but not opaque. GitHub Actions builds the site and deploys to GitHub Pages. Scheduled jobs can run without introducing a hidden CMS.</li>
+<li>Agents use branches and pull requests. Hermes can research a topic from Telegram, create a Markdown post, update metadata, run checks, push a branch, and open a draft PR.</li>
+</ul>
+<h2 id="content-taxonomy">Content taxonomy</h2>
+<p>The initial categories are deliberately editorial, not merely technical:</p>
+<ul>
+<li>AI labs</li>
+<li>Model releases</li>
+<li>Agentic workflows</li>
+<li>Scientific papers</li>
+<li>Infra</li>
+<li>Safety</li>
+<li>Startups</li>
+</ul>
+<p>This gives the site enough structure to support daily news synthesis while still supporting evergreen essays.</p>
+<h2 id="reader-experience">Reader experience</h2>
+<p>The interface should feel like a research desk rather than a marketing page. The homepage emphasizes readable summaries, category filters, recent work, and a strong featured essay. Article pages prioritize typography, footnotes, source links, and a generated table of contents.</p>
+<h2 id="agent-workflow">Agent workflow</h2>
+<p>When Michael asks Hermes in Telegram to research a topic, Hermes should:</p>
+<ul>
+<li>Research the topic with cited sources.</li>
+<li>Create a new Markdown essay under <code>research/posts/</code>.</li>
+<li>Add or update the matching record in <code>data/articles.json</code>.</li>
+<li>Run <code>python scripts/build_site.py</code> and checks.</li>
+<li>Create a branch, rebase on <code>main</code>, push, and open a draft PR.</li>
+</ul>
+<p>This keeps automation powerful but reviewable.</p>
+    <div class="source-box"><strong>Sources</strong><ul><li><a href="https://gwern.net/">Gwern.net</a></li><li><a href="https://turingwire.com/">Turing Wire</a></li></ul></div>
+  </main>
+  <aside class="toc"><strong>Contents</strong><ul><li><a href="#ai-research-wire-manifesto">AI Research Wire Manifesto</a></li>
+<li><a href="#operating-principles">Operating principles</a></li>
+<li><a href="#content-taxonomy">Content taxonomy</a></li>
+<li><a href="#reader-experience">Reader experience</a></li>
+<li><a href="#agent-workflow">Agent workflow</a></li></ul></aside>
+</div>
+
+    <footer class="footer">GitHub is the source of truth. Articles are Markdown in <code>research/posts</code>; metadata lives in <code>data/articles.json</code>.</footer>
+  </div>
+</body>
+</html>
