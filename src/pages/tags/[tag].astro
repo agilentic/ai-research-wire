@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getArticles, allTags } from '../../lib/articles';
+export async function getStaticPaths() { const articles = await getArticles(); return allTags(articles).map((tag) => ({ params: { tag }, props: { tag } })); }
+const { tag } = Astro.props;
+const articles = (await getArticles()).filter((article) => article.data.tags.includes(tag));
+---
+<BaseLayout title={`${tag} · AI Research Wire`} description={`Articles tagged ${tag}.`}>
+  <section class="shell page-heading"><p class="eyebrow">Tag</p><h1>{tag}</h1><p class="lead">{articles.length} article{articles.length === 1 ? '' : 's'} in this research thread.</p></section>
+  <section class="shell card-grid spacious">{articles.map((article) => <ArticleCard article={article} compact />)}</section>
+</BaseLayout>

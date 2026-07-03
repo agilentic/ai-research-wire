@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getArticles, allCategories } from '../lib/articles';
+const articles = await getArticles();
+const categories = allCategories(articles);
+---
+<BaseLayout title="Archive · AI Research Wire" description="Search and browse all AI Research Wire notes and essays.">
+  <section class="shell page-heading"><p class="eyebrow">Archive</p><h1>All research notes and essays</h1><p class="lead">Chronological index of Markdown articles, generated from GitHub source files.</p></section>
+  <section class="shell archive-list">{categories.map((category) => (<section class="archive-section"><h2>{category}</h2><div class="card-grid">{articles.filter((article) => article.data.category === category).map((article) => <ArticleCard article={article} compact />)}</div></section>))}</section>
+</BaseLayout>

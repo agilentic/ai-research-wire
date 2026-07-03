@@ -1,0 +1,10 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getArticles, allTags } from '../../lib/articles';
+const articles = await getArticles();
+const tags = allTags(articles);
+---
+<BaseLayout title="Tags · AI Research Wire" description="Browse AI Research Wire by research tag.">
+  <section class="shell page-heading"><p class="eyebrow">Tags</p><h1>Browse by tag</h1></section>
+  <section class="shell tag-index">{tags.map((tag) => <a class="tag-count" href={`${import.meta.env.BASE_URL}tags/${encodeURIComponent(tag)}/`}><span>{tag}</span><strong>{articles.filter((article) => article.data.tags.includes(tag)).length}</strong></a>)}</section>
+</BaseLayout>

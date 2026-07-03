@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "agent-evaluation-after-benchmarks",
+    "title": "Agent evaluation after benchmark saturation",
+    "description": "A practical note on moving from leaderboard thinking to task-level evidence for autonomous AI agents.",
+    "date": "2026-07-03",
+    "updated": null,
+    "tags": [
+      "agents",
+      "evaluation",
+      "benchmarks",
+      "research-systems"
+    ],
+    "category": "Long-form Essays",
+    "status": "essay",
+    "featured": true,
+    "readingTime": "1 min read",
+    "url": "/research/agent-evaluation-after-benchmarks/"
+  },
+  {
+    "slug": "markdown-first-research-sites",
+    "title": "Why Markdown-first research sites age well",
+    "description": "Markdown keeps research notes portable, reviewable, and automation-friendly while still supporting a polished publication layer.",
+    "date": "2026-07-02",
+    "updated": null,
+    "tags": [
+      "publishing",
+      "markdown",
+      "digital-garden",
+      "knowledge-systems"
+    ],
+    "category": "Research Notes",
+    "status": "evergreen",
+    "featured": false,
+    "readingTime": "1 min read",
+    "url": "/research/markdown-first-research-sites/"
+  },
+  {
+    "slug": "turingwire-gwern-interface-notes",
+    "title": "Interface notes: Gwern durability, TuringWire clarity",
+    "description": "A lightweight interface brief for dense AI research notes: typographic hierarchy, durable URLs, search, and visible metadata.",
+    "date": "2026-07-01",
+    "updated": null,
+    "tags": [
+      "interface",
+      "typography",
+      "archive",
+      "research-ux"
+    ],
+    "category": "Research Notes",
+    "status": "note",
+    "featured": false,
+    "readingTime": "1 min read",
+    "url": "/research/turingwire-gwern-interface-notes/"
+  }
+]

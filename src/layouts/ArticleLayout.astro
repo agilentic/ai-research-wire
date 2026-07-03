@@ -1,0 +1,27 @@
+---
+import BaseLayout from './BaseLayout.astro';
+const { entry } = Astro.props;
+const { title, description, date, updated, tags, category, status, author } = entry.data;
+---
+<BaseLayout title={`${title} · AI Research Wire`} description={description}>
+  <article class="shell article-layout">
+    <aside class="article-meta" aria-label="Article metadata">
+      <a class="eyebrow" href={`${import.meta.env.BASE_URL}archive/`}>{category}</a>
+      <dl>
+        <dt>Published</dt><dd>{date.toLocaleDateString('en', { year: 'numeric', month: 'long', day: 'numeric' })}</dd>
+        {updated && <><dt>Updated</dt><dd>{updated.toLocaleDateString('en', { year: 'numeric', month: 'long', day: 'numeric' })}</dd></>}
+        <dt>Status</dt><dd>{status}</dd>
+        <dt>Author</dt><dd>{author}</dd>
+      </dl>
+      <div class="tag-stack">{tags.map((tag) => <a class="tag" href={`${import.meta.env.BASE_URL}tags/${encodeURIComponent(tag)}/`}>{tag}</a>)}</div>
+    </aside>
+    <div class="article-main">
+      <header class="article-header">
+        <p class="breadcrumb"><a href={import.meta.env.BASE_URL}>Home</a> / <a href={`${import.meta.env.BASE_URL}archive/`}>Research</a></p>
+        <h1>{title}</h1><p class="dek">{description}</p>
+      </header>
+      <div class="prose"><slot /></div>
+      <footer class="article-end"><p>Discuss, fork, or improve this note on <a href={`https://github.com/agilentic/ai-research-wire/blob/main/research/posts/${entry.id}`}>GitHub</a>.</p></footer>
+    </div>
+  </article>
+</BaseLayout>

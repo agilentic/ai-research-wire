@@ -1,0 +1,10 @@
+---
+import { articleHref } from '../lib/articles';
+const { article, compact = false } = Astro.props;
+---
+<article class:list={["article-card", compact && "compact"]}>
+  <div class="card-kicker"><span>{article.data.category}</span><time datetime={article.data.date.toISOString()}>{article.data.date.toLocaleDateString('en', { month: 'short', day: 'numeric', year: 'numeric' })}</time></div>
+  <h3><a href={`${import.meta.env.BASE_URL}${articleHref(article.id).replace(/^\//, '')}`}>{article.data.title}</a></h3>
+  <p>{article.data.description}</p>
+  <div class="tag-row">{article.data.tags.slice(0, 4).map((tag) => <a class="tag" href={`${import.meta.env.BASE_URL}tags/${encodeURIComponent(tag)}/`}>{tag}</a>)}</div>
+</article>
