@@ -1,0 +1,10 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getArticles } from '../lib/articles';
+const notes = (await getArticles()).filter((article) => ['note', 'evergreen'].includes(article.data.status));
+---
+<BaseLayout title="Research notes · AI Research Wire" description="Short research notes and evergreen knowledge entries.">
+  <section class="shell page-heading"><p class="eyebrow">Notes</p><h1>Research notes</h1><p class="lead">Smaller, durable notes that can later mature into long-form essays.</p></section>
+  <section class="shell card-grid spacious">{notes.map((article) => <ArticleCard article={article} compact />)}</section>
+</BaseLayout>

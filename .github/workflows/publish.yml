@@ -1,0 +1,44 @@
+name: Scheduled publishing refresh
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+    inputs:
+      note:
+        description: 'Optional publishing note'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  refresh-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: npm ci
+      - name: Refresh generated article data
+        run: python3 scripts/build_site.py
+      - name: Verify static build
+        run: npm run build
+      - name: Commit refreshed index if needed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh article index"
+          file_pattern: data/articles.json public/articles.json src/content/research/*.md
