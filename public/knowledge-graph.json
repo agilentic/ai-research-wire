@@ -1,0 +1,123 @@
+{
+  "site": "AI Research Wire",
+  "categories": [
+    "AI labs",
+    "model releases",
+    "agentic workflows",
+    "scientific papers",
+    "infra",
+    "safety",
+    "startups"
+  ],
+  "articles": [
+    {
+      "slug": "ai-research-wire-manifesto",
+      "title": "AI Research Wire Manifesto",
+      "date": "2026-07-02",
+      "category": "agentic workflows",
+      "summary": "A first-principles blueprint for a static, citation-first AI research publication that agents can update through pull requests.",
+      "status": "published",
+      "featured": true,
+      "reading_time": "6 min",
+      "sources": [
+        {
+          "title": "Gwern.net",
+          "url": "https://gwern.net/"
+        },
+        {
+          "title": "Turing Wire",
+          "url": "https://turingwire.com/"
+        }
+      ],
+      "markdown": null,
+      "body_html": null,
+      "toc": [
+        [
+          "ai-research-wire-manifesto",
+          "AI Research Wire Manifesto",
+          1
+        ],
+        [
+          "operating-principles",
+          "Operating principles",
+          2
+        ],
+        [
+          "content-taxonomy",
+          "Content taxonomy",
+          2
+        ],
+        [
+          "reader-experience",
+          "Reader experience",
+          2
+        ],
+        [
+          "agent-workflow",
+          "Agent workflow",
+          2
+        ]
+      ]
+    },
+    {
+      "slug": "frontier-model-release-watch",
+      "title": "Frontier Model Release Watch",
+      "date": "2026-07-02",
+      "category": "model releases",
+      "summary": "A living digest format for tracking new model launches, benchmark claims, system cards, pricing changes, and early production signals.",
+      "status": "published",
+      "featured": false,
+      "reading_time": "4 min",
+      "sources": [],
+      "markdown": null,
+      "body_html": null,
+      "toc": [
+        [
+          "frontier-model-release-watch",
+          "Frontier Model Release Watch",
+          1
+        ],
+        [
+          "what-to-track",
+          "What to track",
+          2
+        ],
+        [
+          "editorial-stance",
+          "Editorial stance",
+          2
+        ]
+      ]
+    },
+    {
+      "slug": "paper-to-product-loop",
+      "title": "From Paper to Product: The Agentic Research Loop",
+      "date": "2026-07-02",
+      "category": "scientific papers",
+      "summary": "How to turn papers into reproducible notes, implementation checklists, and product hypotheses without losing the original evidence trail.",
+      "status": "published",
+      "featured": false,
+      "reading_time": "5 min",
+      "sources": [],
+      "markdown": null,
+      "body_html": null,
+      "toc": [
+        [
+          "from-paper-to-product-the-agentic-research-loop",
+          "From Paper to Product: The Agentic Research Loop",
+          1
+        ],
+        [
+          "a-good-research-note-includes",
+          "A good research note includes",
+          2
+        ],
+        [
+          "why-markdown-works",
+          "Why Markdown works",
+          2
+        ]
+      ]
+    }
+  ]
+}

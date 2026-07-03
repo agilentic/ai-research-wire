@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "ai-research-wire-manifesto",
+    "title": "AI Research Wire Manifesto",
+    "date": "2026-07-02",
+    "category": "agentic workflows",
+    "summary": "A first-principles blueprint for a static, citation-first AI research publication that agents can update through pull requests.",
+    "status": "published",
+    "featured": true,
+    "reading_time": "6 min",
+    "sources": [
+      {"title": "Gwern.net", "url": "https://gwern.net/"},
+      {"title": "Turing Wire", "url": "https://turingwire.com/"}
+    ]
+  },
+  {
+    "slug": "frontier-model-release-watch",
+    "title": "Frontier Model Release Watch",
+    "date": "2026-07-02",
+    "category": "model releases",
+    "summary": "A living digest format for tracking new model launches, benchmark claims, system cards, pricing changes, and early production signals.",
+    "status": "published",
+    "featured": false,
+    "reading_time": "4 min",
+    "sources": []
+  },
+  {
+    "slug": "paper-to-product-loop",
+    "title": "From Paper to Product: The Agentic Research Loop",
+    "date": "2026-07-02",
+    "category": "scientific papers",
+    "summary": "How to turn papers into reproducible notes, implementation checklists, and product hypotheses without losing the original evidence trail.",
+    "status": "published",
+    "featured": false,
+    "reading_time": "5 min",
+    "sources": []
+  }
+]

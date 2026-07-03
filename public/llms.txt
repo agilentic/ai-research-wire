@@ -1,0 +1,10 @@
+AI Research Wire
+
+Purpose: AI research notes, news synthesis, paper-style essays, and research digests.
+
+Canonical source: https://github.com/agilentic/ai-research-wire
+
+Articles:
+- AI Research Wire Manifesto: https://agilentic.github.io/ai-research-wire/articles/ai-research-wire-manifesto/
+- Frontier Model Release Watch: https://agilentic.github.io/ai-research-wire/articles/frontier-model-release-watch/
+- From Paper to Product: The Agentic Research Loop: https://agilentic.github.io/ai-research-wire/articles/paper-to-product-loop/
