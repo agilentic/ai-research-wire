@@ -1,0 +1,32 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "tags": ["openai", "frontier-models"]
+  },
+  {
+    "name": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/rss.xml",
+    "tags": ["deepmind", "research"]
+  },
+  {
+    "name": "arXiv cs.AI",
+    "url": "https://export.arxiv.org/rss/cs.AI",
+    "tags": ["arxiv", "research"]
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "tags": ["open-source", "mlops"]
+  },
+  {
+    "name": "MIT News AI",
+    "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+    "tags": ["academia", "ai"]
+  },
+  {
+    "name": "VentureBeat AI",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "tags": ["industry", "ai"]
+  }
+]

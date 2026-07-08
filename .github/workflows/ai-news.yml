@@ -1,0 +1,54 @@
+name: AI news publishing loop
+
+on:
+  schedule:
+    # Twice daily UTC: publish a fresh dated AI-news brief from public feeds.
+    - cron: '7 5,17 * * *'
+  workflow_dispatch:
+    inputs:
+      max_items:
+        description: 'Maximum feed items to include'
+        required: false
+        default: '12'
+        type: string
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: ai-news-publishing-loop
+  cancel-in-progress: false
+
+jobs:
+  publish-ai-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: npm ci
+      - name: Generate AI-news Markdown brief
+        run: |
+          MAX_ITEMS="${{ github.event.inputs.max_items || '12' }}"
+          python3 scripts/update_ai_news.py --max-items "$MAX_ITEMS" --per-source-limit 4
+      - name: Refresh generated article data
+        run: python3 scripts/build_site.py
+      - name: Verify static build
+        run: npm run build
+      - name: Commit AI-news update if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: publish automated AI news brief"
+          file_pattern: data/articles.json public/articles.json src/content/research/*.md research/posts/ai-news-wire-*.md
