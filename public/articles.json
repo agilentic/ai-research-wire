@@ -1,5 +1,29 @@
 [
   {
+    "slug": "ai-news-wire-2026-07-13",
+    "title": "AI News Wire — 2026-07-13",
+    "description": "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-07-13.",
+    "date": "2026-07-13",
+    "updated": null,
+    "tags": [
+      "ai-news",
+      "research-wire",
+      "academia",
+      "ai",
+      "arxiv",
+      "frontier-models",
+      "mlops",
+      "open-source",
+      "openai",
+      "research"
+    ],
+    "category": "AI News Briefs",
+    "status": "brief",
+    "featured": false,
+    "readingTime": "3 min read",
+    "url": "/research/ai-news-wire-2026-07-13/"
+  },
+  {
     "slug": "ai-news-wire-2026-07-12",
     "title": "AI News Wire — 2026-07-12",
     "description": "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-07-10.",
