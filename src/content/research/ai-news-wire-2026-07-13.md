@@ -8,7 +8,7 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-07-13 08:26 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-07-13 18:48 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -47,28 +47,27 @@ capabilities, without prompting them for illegal outputs.
 - **Feed summary:** How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service,
 employee workflows, network operations, and the future of voice.
 
-### 7. [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile)
+### 7. [Getting started with ChatGPT](https://openai.com/academy/getting-started)
+- **Source:** OpenAI News · **Published:** 2026-07-10
+- **Feed summary:** Learn how to use ChatGPT, start your first conversation, and discover simple ways to write,
+brainstorm, and solve problems with AI.
+
+### 8. [Profiling in PyTorch (Part 3): Attention is all you profile](https://huggingface.co/blog/torch-attention-profile)
 - **Source:** Hugging Face Blog · **Published:** 2026-07-10
 
-### 8. [Tiny robot boats build floating structures](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)
+### 9. [Tiny robot boats build floating structures](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)
 - **Source:** MIT News AI · **Published:** 2026-07-09
 - **Feed summary:** MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like
 ants forming a raft, assembling into reconfigurable structures on the water.
 
-### 9. [GPT-5.6 is now the preferred model in Microsoft 365 Copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
+### 10. [GPT-5.6 is now the preferred model in Microsoft 365 Copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
 - **Source:** OpenAI News · **Published:** 2026-07-09
 - **Feed summary:** Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel,
 PowerPoint, Chat, and Cowork for faster, higher-quality work.
 
-### 10. [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6)
+### 11. [GPT-5.5 Bio Bug Bounty](https://openai.com/index/bio-bug-bounty)
 - **Source:** OpenAI News · **Published:** 2026-07-09
-- **Feed summary:** More intelligence from every token, stronger performance per dollar, and more capability on
-demand for your hardest work.
-
-### 11. [ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work)
-- **Source:** OpenAI News · **Published:** 2026-07-09
-- **Feed summary:** ChatGPT Work is an agent that can take action across your apps and files, stay with a project
-for hours if needed, and turn a goal into finished work.
+- **Feed summary:** Details about the OpenAI Bio Bounty program
 
 ### 12. [Data for Agents](https://huggingface.co/blog/nvidia/open-data-for-agents)
 - **Source:** Hugging Face Blog · **Published:** 2026-07-08
