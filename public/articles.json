@@ -2,7 +2,7 @@
   {
     "slug": "ai-news-wire-2026-07-15",
     "title": "AI News Wire — 2026-07-15",
-    "description": "Automated AI news brief from Google DeepMind Blog, MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-07-15.",
+    "description": "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-07-15.",
     "date": "2026-07-15",
     "updated": null,
     "tags": [
@@ -11,15 +11,16 @@
       "academia",
       "ai",
       "arxiv",
-      "deepmind",
       "frontier-models",
+      "mlops",
+      "open-source",
       "openai",
       "research"
     ],
     "category": "AI News Briefs",
     "status": "brief",
     "featured": false,
-    "readingTime": "4 min read",
+    "readingTime": "3 min read",
     "url": "/research/ai-news-wire-2026-07-15/"
   },
   {
