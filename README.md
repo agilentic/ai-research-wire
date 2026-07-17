@@ -2,6 +2,8 @@
 
 Public, Markdown-first AI research publication for Agilentic.
 
+> Canonical combined repository: <https://github.com/kitmike/ai-research-os>. This repo is preserved as the Agilentic source and is imported there under `sources/agilentic-ai-research-wire/`.
+
 - Live site: <https://agilentic.github.io/ai-research-wire/>
 - Source articles: [`research/posts`](research/posts)
 - Search index: [`data/articles.json`](data/articles.json)
