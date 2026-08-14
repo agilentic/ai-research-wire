@@ -8,7 +8,7 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-08-14 06:38 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-08-14 18:01 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -37,37 +37,35 @@ that may easily be misused by malicious actors for censorship and manipulation. 
 for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does
 not show that human annotators and models rely on the same moral grounds. Two agents…
 
-### 5. [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)
+### 5. [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026)
+- **Source:** Hugging Face Blog · **Published:** 2026-08-14
+
+### 6. [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop)
 - **Source:** Hugging Face Blog · **Published:** 2026-08-13
 
-### 6. [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/)
+### 7. [Introducing Gemini 3.7 Flash](https://deepmind.google/blog/introducing-gemini-3-7-flash/)
 - **Source:** Google DeepMind Blog · **Published:** 2026-08-13
 
-### 7. [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
+### 8. [The builder’s guide to GPT‑5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
 - **Source:** OpenAI News · **Published:** 2026-08-13
 - **Feed summary:** Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model
 selection and new Responses API capabilities.
 
-### 8. [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed](https://openai.com/index/previewing-ultrafast)
+### 9. [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed](https://openai.com/index/previewing-ultrafast)
 - **Source:** OpenAI News · **Published:** 2026-08-13
 - **Feed summary:** Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered
 by Cerebras, it delivers up to 750 output tokens per second.
 
-### 9. [OpenAI appoints Dali Rajic as Chief Revenue Officer](https://openai.com/index/dali-rajic-chief-revenue-officer)
+### 10. [OpenAI appoints Dali Rajic as Chief Revenue Officer](https://openai.com/index/dali-rajic-chief-revenue-officer)
 - **Source:** OpenAI News · **Published:** 2026-08-13
 - **Feed summary:** OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and
 help businesses realize the full value of AI.
 
-### 10. [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions)
+### 11. [What We Learned by Reproducing 2,200 papers from ICML](https://huggingface.co/blog/icml-2026-open-reproductions)
 - **Source:** Hugging Face Blog · **Published:** 2026-08-13
 
-### 11. [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings)
+### 12. [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](https://huggingface.co/blog/allenai/olmoearth-embeddings)
 - **Source:** Hugging Face Blog · **Published:** 2026-08-12
-
-### 12. [Putting sign language AI into users’ hands](https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/)
-- **Source:** Google DeepMind Blog · **Published:** 2026-08-12
-- **Feed summary:** Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language
-features for Deaf and hard of hearing users.
 
 ## Automation note
 
