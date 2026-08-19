@@ -2,7 +2,7 @@
   {
     "slug": "ai-news-wire-2026-08-19",
     "title": "AI News Wire — 2026-08-19",
-    "description": "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-08-19.",
+    "description": "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News, VentureBeat AI, arXiv cs.AI. Newest source item: 2026-08-19.",
     "date": "2026-08-19",
     "updated": null,
     "tags": [
@@ -12,10 +12,10 @@
       "ai",
       "arxiv",
       "frontier-models",
+      "industry",
       "mlops",
       "open-source",
-      "openai",
-      "research"
+      "openai"
     ],
     "category": "AI News Briefs",
     "status": "brief",
