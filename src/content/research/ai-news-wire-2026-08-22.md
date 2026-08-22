@@ -8,7 +8,7 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-08-22 05:38 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-08-22 17:32 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
