@@ -8,7 +8,7 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-09-04 09:33 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-09-04 19:30 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -47,15 +47,15 @@ frontier cyber AI, training, and support for essential services.
 ### 7. [NeoMME: an efficient Multimodal-native and Multilingual Encoder](https://huggingface.co/blog/Hcompany/neomme)
 - **Source:** Hugging Face Blog · **Published:** 2026-09-03
 
-### 8. [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra)
-- **Source:** OpenAI News · **Published:** 2026-09-03
-- **Feed summary:** Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
-improve performance by nearly 40% in this financial-review workflow.
-
-### 9. [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra)
+### 8. [Playco cut manual fixes 50% prototyping games with GPT-6 Astra](https://openai.com/index/playco-game-prototyping-with-astra)
 - **Source:** OpenAI News · **Published:** 2026-09-03
 - **Feed summary:** Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and
 reported 50% fewer manual fixes than with the previous model.
+
+### 9. [Legora reviewed 41 documents in minutes with GPT-6 Astra](https://openai.com/index/legora-financial-statement-review-with-astra)
+- **Source:** OpenAI News · **Published:** 2026-09-03
+- **Feed summary:** Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and
+improve performance by nearly 40% in this financial-review workflow.
 
 ### 10. [Safety overview: GPT-6 Astra](https://openai.com/index/safety-overview-gpt-6-astra)
 - **Source:** OpenAI News · **Published:** 2026-09-03
