@@ -8,44 +8,44 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-09-14 10:33 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-09-14 20:55 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
-### 1. [New method enables AI for safety-critical situations](https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914)
+### 1. [How Fyxer built an AI executive assistant people trust](https://openai.com/index/fyxer)
+- **Source:** OpenAI News · **Published:** 2026-09-14
+- **Feed summary:** Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and
+draft emails in each user’s voice.
+
+### 2. [New method enables AI for safety-critical situations](https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914)
 - **Source:** MIT News AI · **Published:** 2026-09-14
 - **Feed summary:** The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey
 strict requirements when “pretty close” doesn’t cut it.
 
-### 2. [MIT spinout turns plastic waste into resilient building materials](https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914)
+### 3. [MIT spinout turns plastic waste into resilient building materials](https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914)
 - **Source:** MIT News AI · **Published:** 2026-09-14
 - **Feed summary:** Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for
 buildings and other infrastructure.
 
-### 3. [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
+### 4. [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)
 - **Source:** OpenAI News · **Published:** 2026-09-14
 - **Feed summary:** Perplexity uses Astra to write communications, change software, and monitor production systems,
 and checks in much less frequently than with earlier models.
 
-### 4. [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra)
+### 5. [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra)
 - **Source:** OpenAI News · **Published:** 2026-09-11
 - **Feed summary:** GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of
 helping engineers review less code and ship more.
 
-### 5. [Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award](https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911)
+### 6. [Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award](https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911)
 - **Source:** MIT News AI · **Published:** 2026-09-11
 - **Feed summary:** The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts
 General Hospital, promises improved health outcomes for injured service members and civilians.
 
-### 6. [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one)
+### 7. [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one)
 - **Source:** OpenAI News · **Published:** 2026-09-11
 - **Feed summary:** Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage
 platform serving 1 billion ChatGPT users and 22M requests per second.
-
-### 7. [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
-- **Source:** OpenAI News · **Published:** 2026-09-10
-- **Feed summary:** César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for
-antimicrobial candidates to fight drug-resistant infections.
 
 ### 8. [Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL](https://huggingface.co/blog/asyncgrpo-lora-hfjobs)
 - **Source:** Hugging Face Blog · **Published:** 2026-09-10
