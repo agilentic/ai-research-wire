@@ -8,7 +8,7 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-09-17 09:58 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-09-17 20:15 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -36,30 +36,30 @@ use more colors than state-of-the-art coloring algorithms. We propose SSLD…
 economic indicators, planning decisions and safety operations, yet the twins built on top of
 them treat the incoming stream as ground truth. We study what happens when it is not. We…
 
-### 5. [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)
+### 5. [Introducing Astra for Law](https://openai.com/index/astra-for-law)
+- **Source:** OpenAI News · **Published:** 2026-09-17
+- **Feed summary:** OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data
+sources, and legal-grade controls for confidential client work.
+
+### 6. [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)
 - **Source:** OpenAI News · **Published:** 2026-09-16
 - **Feed summary:** OpenAI shares a framework for tracking, investigating, and disclosing model misalignment,
 alongside six reports of unexpected or concerning model behavior.
 
-### 6. [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
+### 7. [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
 - **Source:** OpenAI News · **Published:** 2026-09-16
 - **Feed summary:** OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10
 U.S. cities to build practical AI skills safely.
 
-### 7. [New AI technique could make minimally invasive surgeries safer and more precise](https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916)
+### 8. [New AI technique could make minimally invasive surgeries safer and more precise](https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916)
 - **Source:** MIT News AI · **Published:** 2026-09-16
 - **Feed summary:** This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in
 fields such as orthopedics and neurosurgery.
 
-### 8. [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)
+### 9. [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai)
 - **Source:** OpenAI News · **Published:** 2026-09-16
 - **Feed summary:** Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools
 for marketers, and integrations with HubSpot and Shopify.
-
-### 9. [How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)
-- **Source:** OpenAI News · **Published:** 2026-09-16
-- **Feed summary:** Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify
-training needs, and connect adoption to business outcomes.
 
 ### 10. [Measure by measure, studying society accurately](https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916)
 - **Source:** MIT News AI · **Published:** 2026-09-16
