@@ -1,14 +1,14 @@
 ---
 title: "AI News Wire — 2026-10-04"
-description: "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-10-03."
+description: "Automated AI news brief from Google DeepMind Blog, Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-10-03."
 date: "2026-10-04"
-tags: [ai-news, research-wire, academia, ai, frontier-models, mlops, open-source, openai]
+tags: [ai-news, research-wire, academia, ai, deepmind, frontier-models, mlops, open-source, openai, research]
 category: "AI News Briefs"
 status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-10-04 11:04 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-10-04 20:06 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -61,12 +61,11 @@ execution could shape the next economy and the pace of progress.
 - **Feed summary:** Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and
 make grocery shopping easier for millions of customers.
 
-### 12. [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](https://huggingface.co/blog/open-tts-leaderboard)
-- **Source:** Hugging Face Blog · **Published:** 2026-09-30
+### 12. [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/)
+- **Source:** Google DeepMind Blog · **Published:** 2026-09-30
 
 ## Feed warnings
 
-- Google DeepMind Blog: not well-formed (invalid token): line 1, column 0
 - VentureBeat AI: HTTP Error 429: Too Many Requests
 
 ## Automation note
