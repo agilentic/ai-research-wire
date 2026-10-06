@@ -1,72 +1,71 @@
 ---
 title: "AI News Wire — 2026-10-06"
-description: "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-10-06."
+description: "Automated AI news brief from Google DeepMind Blog, Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-10-06."
 date: "2026-10-06"
-tags: [ai-news, research-wire, academia, ai, frontier-models, mlops, open-source, openai]
+tags: [ai-news, research-wire, academia, ai, deepmind, frontier-models, mlops, open-source, openai, research]
 category: "AI News Briefs"
 status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-10-06 11:59 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-10-06 21:35 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
-### 1. [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati)
+### 1. [Supercomputing researchers document evolution of AI hardware](https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006)
+- **Source:** MIT News AI · **Published:** 2026-10-06
+- **Feed summary:** An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln
+Laboratory staff and sponsors.
+
+### 2. [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)
+- **Source:** Google DeepMind Blog · **Published:** 2026-10-06
+
+### 3. [Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries](https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006)
+- **Source:** MIT News AI · **Published:** 2026-10-06
+- **Feed summary:** As director, Bourg has focused on digital access, open and equitable scholarly publishing, and
+expanded support for data-intensive research.
+
+### 4. [Atlassian and OpenAI expand partnership to turn enterprise knowledge into action](https://openai.com/index/atlassian-partnership)
+- **Source:** OpenAI News · **Published:** 2026-10-06
+- **Feed summary:** Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise
+knowledge and help teams plan, build, and deliver work.
+
+### 5. [MIT announces the MIT for America initiative, to strengthen STEM education across the country](https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006)
+- **Source:** MIT News AI · **Published:** 2026-10-06
+- **Feed summary:** The effort aims to help U.S. learners from kindergarten to community college, with an emphasis
+on math, making, and the constructive use of AI.
+
+### 6. [Advancing computer use with Ironclad](https://openai.com/index/advancing-computer-use-with-ironclad)
+- **Source:** OpenAI News · **Published:** 2026-10-06
+- **Feed summary:** Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting
+workflows to advance computer use for professional work.
+
+### 7. [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](https://huggingface.co/blog/tiiuae/falcon-emirati)
 - **Source:** Hugging Face Blog · **Published:** 2026-10-06
 
-### 2. [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance)
+### 8. [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance)
 - **Source:** OpenAI News · **Published:** 2026-10-05
 - **Feed summary:** How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how
 detection works, and why access starts with researchers.
 
-### 3. [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
+### 9. [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
 - **Source:** OpenAI News · **Published:** 2026-10-05
 - **Feed summary:** OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution
 partnerships, and brand suitability for advertisers.
 
-### 4. [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox)
+### 10. [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox)
 - **Source:** Hugging Face Blog · **Published:** 2026-10-03
 
-### 5. [Computational tools for society’s most complex challenges](https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002)
+### 11. [Computational tools for society’s most complex challenges](https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002)
 - **Source:** MIT News AI · **Published:** 2026-10-02
 - **Feed summary:** Associate Professor Cathy Wu uses reinforcement learning to help map out improvements to
 transportation and other multifaceted systems.
 
-### 6. [Documenting the tech worker movement](https://news.mit.edu/2026/documenting-tech-worker-movement-0918)
-- **Source:** MIT News AI · **Published:** 2026-10-02
-- **Feed summary:** Writing as a participant and researcher, PhD student JS Tan SM ’22 has co-authored a new book
-about the rise of tech worker protests and the employer backlash that followed.
-
-### 7. [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)
-- **Source:** OpenAI News · **Published:** 2026-10-02
-- **Feed summary:** Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills,
-coordinate tools, and prepare workflows for production.
-
-### 8. [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief)
+### 12. [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief)
 - **Source:** Hugging Face Blog · **Published:** 2026-10-02
-
-### 9. [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata)
-- **Source:** Hugging Face Blog · **Published:** 2026-10-02
-
-### 10. [3 Questions: A new resource to empower young entrepreneurs](https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002)
-- **Source:** MIT News AI · **Published:** 2026-10-02
-- **Feed summary:** Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for
-middle and high school students who want to learn about entrepreneurship.
-
-### 11. [Chatham scales its capital markets expertise with OpenAI](https://openai.com/index/chatham-financial)
-- **Source:** OpenAI News · **Published:** 2026-10-02
-- **Feed summary:** Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting
-trade validation from 30 minutes to under 4.
-
-### 12. [New tool lets users repair AI-generated 3D models, then fabricate them just the way they want](https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001)
-- **Source:** MIT News AI · **Published:** 2026-10-01
-- **Feed summary:** “InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for
-both experts and newcomers to 3D modeling.
 
 ## Feed warnings
 
-- Google DeepMind Blog: not well-formed (invalid token): line 1, column 0
 - VentureBeat AI: HTTP Error 429: Too Many Requests
 
 ## Automation note
