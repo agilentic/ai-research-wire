@@ -1,5 +1,27 @@
 [
   {
+    "slug": "ai-news-wire-2026-10-10",
+    "title": "AI News Wire — 2026-10-10",
+    "description": "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-10-09.",
+    "date": "2026-10-10",
+    "updated": null,
+    "tags": [
+      "ai-news",
+      "research-wire",
+      "academia",
+      "ai",
+      "frontier-models",
+      "mlops",
+      "open-source",
+      "openai"
+    ],
+    "category": "AI News Briefs",
+    "status": "brief",
+    "featured": false,
+    "readingTime": "3 min read",
+    "url": "/research/ai-news-wire-2026-10-10/"
+  },
+  {
     "slug": "ai-news-wire-2026-10-09",
     "title": "AI News Wire — 2026-10-09",
     "description": "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-10-09.",
