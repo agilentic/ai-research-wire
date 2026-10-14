@@ -8,58 +8,60 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-10-14 10:06 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-10-14 20:38 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
-### 1. [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
+### 1. [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2)
+- **Source:** Hugging Face Blog · **Published:** 2026-10-14
+
+### 2. [Researchers improve weather forecasts looking two to six weeks out](https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014)
+- **Source:** MIT News AI · **Published:** 2026-10-14
+- **Feed summary:** A new machine-learning approach broke records for weather forecasting for an important time
+frame in emergency planning.
+
+### 3. [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)
+- **Source:** OpenAI News · **Published:** 2026-10-14
+- **Feed summary:** See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1,
+and Sign in with ChatGPT.
+
+### 4. [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone)
+- **Source:** OpenAI News · **Published:** 2026-10-14
+- **Feed summary:** With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to
+investigate more threats.
+
+### 5. [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research)
+- **Source:** OpenAI News · **Published:** 2026-10-14
+- **Feed summary:** With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds
+agents that focus for days and improve with use.
+
+### 6. [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
 - **Source:** Google DeepMind Blog · **Published:** 2026-10-14
 - **Feed summary:** Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to
 intercept conversational scams in private chats with zero cloud data egress.
 
-### 2. [The EU’s next chapter in AI is agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
+### 7. [The EU’s next chapter in AI is agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
 - **Source:** OpenAI News · **Published:** 2026-10-14
 - **Feed summary:** New analysis shows how agentic AI adoption is growing across EU enterprises and small
 businesses—and where deeper use could unlock more value.
 
-### 3. [How artificial neural networks build their own learning machinery](https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013)
+### 8. [How artificial neural networks build their own learning machinery](https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013)
 - **Source:** MIT News AI · **Published:** 2026-10-13
 - **Feed summary:** Machine-learning networks can learn without detailed instructions from a designer. Those that do
 may offer insight into how the brain reorganizes itself during learning.
 
-### 4. [MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology](https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013)
+### 9. [MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology](https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013)
 - **Source:** MIT News AI · **Published:** 2026-10-13
 - **Feed summary:** Roadshow event highlights Massachusetts' defense-biotechnology ecosystem.
 
-### 5. [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)
+### 10. [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)
 - **Source:** Google DeepMind Blog · **Published:** 2026-10-13
 
-### 6. [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
+### 11. [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
 - **Source:** Hugging Face Blog · **Published:** 2026-10-13
 
-### 7. [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
+### 12. [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
 - **Source:** Google DeepMind Blog · **Published:** 2026-10-13
-
-### 8. [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
-- **Source:** Google DeepMind Blog · **Published:** 2026-10-13
-
-### 9. [Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice)
-- **Source:** OpenAI News · **Published:** 2026-10-13
-- **Feed summary:** Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5,
-and a path to voice filmmaking with GPT-Live.
-
-### 10. [Q&A: Building accountability behind our words — and AI’s — in civic conversations](https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013)
-- **Source:** MIT News AI · **Published:** 2026-10-13
-- **Feed summary:** Professor Deb Roy contends there should be someone who is “answerable” for every piece of text
-in public life, no matter its origins.
-
-### 11. [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling)
-- **Source:** Hugging Face Blog · **Published:** 2026-10-09
-
-### 12. [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)
-- **Source:** OpenAI News · **Published:** 2026-10-09
-- **Feed summary:** Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and
-automate 52% of MDR cases while preserving human oversight.
 
 ## Feed warnings
 
