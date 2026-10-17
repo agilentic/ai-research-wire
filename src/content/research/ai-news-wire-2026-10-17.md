@@ -8,7 +8,7 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-10-17 09:15 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-10-17 19:18 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -25,15 +25,15 @@ a force for shared prosperity in society.
 ### 3. [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
 - **Source:** Hugging Face Blog · **Published:** 2026-10-16
 
-### 4. [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
-- **Source:** OpenAI News · **Published:** 2026-10-16
-- **Feed summary:** Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT
-plugin helped drive up to 10× growth in agent creation.
-
-### 5. [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
+### 4. [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners)
 - **Source:** OpenAI News · **Published:** 2026-10-16
 - **Feed summary:** Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex
 for code review and faster follow-ups.
+
+### 5. [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
+- **Source:** OpenAI News · **Published:** 2026-10-16
+- **Feed summary:** Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT
+plugin helped drive up to 10× growth in agent creation.
 
 ### 6. [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
 - **Source:** Hugging Face Blog · **Published:** 2026-10-16
