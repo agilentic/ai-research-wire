@@ -8,73 +8,75 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-10-26 10:59 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-10-26 21:37 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
-### 1. [Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation](https://arxiv.org/abs/2610.31701)
+### 1. [At New York Climate Week 2026, MIT connects with a global network](https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026)
+- **Source:** MIT News AI · **Published:** 2026-10-26
+- **Feed summary:** A cross-section of the MIT community convened discussions on topics ranging from data centers
+and super pollutants to agriculture and education.
+
+### 2. [ChatGPT’s expanding world of work](https://openai.com/index/chatgpt-expanding-world-of-work)
+- **Source:** OpenAI News · **Published:** 2026-10-26
+- **Feed summary:** Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how
+people use ChatGPT for work and how usage changes over time.
+
+### 3. [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience)
+- **Source:** OpenAI News · **Published:** 2026-10-26
+- **Feed summary:** Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing
+across roughly 30,000 MLB products showed 10% higher engagement.
+
+### 4. [How Ultrafast cut incident investigation from hours to minutes at OpenAI](https://openai.com/index/openai-cut-incident-investigation)
+- **Source:** OpenAI News · **Published:** 2026-10-26
+- **Feed summary:** See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster
+security analysis, code refactoring, and daily workflows.
+
+### 5. [Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation](https://arxiv.org/abs/2610.31701)
 - **Source:** arXiv cs.AI · **Published:** 2026-10-26
 - **Feed summary:** arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only
 by product experiences and marketing, but also by recurring resource-allocation decisions. In
 B2B go-to-market (GTM) organizations, territory carving determines which accounts…
 
-### 2. [Phronix: The Capability-Centric Learning Paradigm for Agents](https://arxiv.org/abs/2610.31789)
+### 6. [Phronix: The Capability-Centric Learning Paradigm for Agents](https://arxiv.org/abs/2610.31789)
 - **Source:** arXiv cs.AI · **Published:** 2026-10-26
 - **Feed summary:** arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on
 large language model-based agents for performance engineering tasks such as instrumentation,
 analysis, and workflow porting. However, agent effectiveness depends heavily on the…
 
-### 3. [Patronizing and Condescending Language Detection in English and Mandarin](https://arxiv.org/abs/2610.31808)
+### 7. [Patronizing and Condescending Language Detection in English and Mandarin](https://arxiv.org/abs/2610.31808)
 - **Source:** arXiv cs.AI · **Published:** 2026-10-26
 - **Feed summary:** arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is
 a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing
 negative societal stereotypes. However, unlike overt hate speech, it is often difficult…
 
-### 4. [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](https://arxiv.org/abs/2610.31810)
+### 8. [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](https://arxiv.org/abs/2610.31810)
 - **Source:** arXiv cs.AI · **Published:** 2026-10-26
 - **Feed summary:** arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small
 gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic
 pipeline that helps authors find and close such gaps in their own papers and turn…
 
-### 5. [At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI](https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023)
+### 9. [Introducing GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra)
+- **Source:** OpenAI News · **Published:** 2026-10-26
+- **Feed summary:** Bringing fast and capable computer use to everyone
+
+### 10. [At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI](https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023)
 - **Source:** MIT News AI · **Published:** 2026-10-23
 - **Feed summary:** In Compton Lecture, the distinguished legal scholar warns of potential “loss of the
 Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.
 
-### 6. [Reinforcing the value of human understanding at MIT](https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023)
+### 11. [Reinforcing the value of human understanding at MIT](https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023)
 - **Source:** MIT News AI · **Published:** 2026-10-23
 - **Feed summary:** During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium,
 President Sally Kornbluth said “MIT has never needed your particular insight and guidance more
 than we do now.”
 
-### 7. [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
-- **Source:** OpenAI News · **Published:** 2026-10-23
-- **Feed summary:** Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB
-to deliver 12× faster reads for ChatGPT.
-
-### 8. [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
-- **Source:** Hugging Face Blog · **Published:** 2026-10-23
-
-### 9. [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment)
-- **Source:** OpenAI News · **Published:** 2026-10-23
-- **Feed summary:** OpenAI explains how we strengthened containment for frontier model training and evaluation,
-including offline environments and high-compute red-teaming.
-
-### 10. [Q&A: How AI came to model the “messy” human mind](https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023)
-- **Source:** MIT News AI · **Published:** 2026-10-23
-- **Feed summary:** Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness
-into early AI, giving rise to deep-learning models that sometimes hallucinate.
-
-### 11. [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)
-- **Source:** OpenAI News · **Published:** 2026-10-23
-- **Feed summary:** OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to
-strengthen safeguards and support a more resilient digital ecosystem.
-
-### 12. [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
+### 12. [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
 - **Source:** Hugging Face Blog · **Published:** 2026-10-23
 
 ## Feed warnings
 
+- Google DeepMind Blog: not well-formed (invalid token): line 1, column 0
 - VentureBeat AI: HTTP Error 429: Too Many Requests
 
 ## Automation note
