@@ -1,73 +1,72 @@
 ---
 title: "AI News Wire — 2026-11-04"
-description: "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-03."
+description: "Automated AI news brief from Google DeepMind Blog, Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-04."
 date: "2026-11-04"
-tags: [ai-news, research-wire, academia, ai, frontier-models, mlops, open-source, openai]
+tags: [ai-news, research-wire, academia, ai, deepmind, frontier-models, mlops, open-source, openai, research]
 category: "AI News Briefs"
 status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-11-04 12:56 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-11-04 22:34 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
-### 1. [Building connections across the research infrastructure](https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103)
+### 1. [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
+- **Source:** Hugging Face Blog · **Published:** 2026-11-04
+
+### 2. [OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)
+- **Source:** OpenAI News · **Published:** 2026-11-04
+- **Feed summary:** OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building,
+understanding, and reviewing code.
+
+### 3. [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root)
+- **Source:** OpenAI News · **Published:** 2026-11-04
+- **Feed summary:** OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local
+privilege-escalation vulnerabilities in the Linux kernel.
+
+### 4. [Daybreak Red is now available in AWS GovCloud (US-East)](https://openai.com/index/daybreak-red-aws-govcloud)
+- **Source:** OpenAI News · **Published:** 2026-11-04
+- **Feed summary:** Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon
+Bedrock for authorized cybersecurity work.
+
+### 5. [DevRev delivers autonomous self-service with GPT-6.1 Sol](https://openai.com/index/devrev-enterprise-self-service)
+- **Source:** OpenAI News · **Published:** 2026-11-04
+- **Feed summary:** DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for
+enterprise service.
+
+### 6. [Building connections across the research infrastructure](https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103)
 - **Source:** MIT News AI · **Published:** 2026-11-03
 - **Feed summary:** MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology
 professionals from across the nation to explore ways to make shared-access facilities more
 connected.
 
-### 2. [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench)
+### 7. [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-03
 
-### 3. [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
+### 8. [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
+- **Source:** Google DeepMind Blog · **Published:** 2026-11-03
+- **Feed summary:** Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows,
+search compounds, and propose novel rigidified macrocycles.
+
+### 9. [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-03
 
-### 4. [Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world)
-- **Source:** OpenAI News · **Published:** 2026-11-03
-- **Feed summary:** Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and
-other workflows across the physical world.
-
-### 5. [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber)
-- **Source:** OpenAI News · **Published:** 2026-11-03
-- **Feed summary:** Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn
-how it is building more adaptive defenses.
-
-### 6. [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden)
-- **Source:** OpenAI News · **Published:** 2026-11-03
-- **Feed summary:** Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property
-management, cut costs, and empower employees across Europe.
-
-### 7. [OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)
-- **Source:** OpenAI News · **Published:** 2026-11-03
-- **Feed summary:** Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s
-global communications and corporate positioning.
-
-### 8. [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench)
+### 10. [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-03
 
-### 9. [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
-- **Source:** Hugging Face Blog · **Published:** 2026-11-03
-
-### 10. [Powering up for a pivotal moment](https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102)
+### 11. [Powering up for a pivotal moment](https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102)
 - **Source:** MIT News AI · **Published:** 2026-11-02
 - **Feed summary:** From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked
 deployment of today’s technologies to discovery of tomorrow’s breakthroughs.
 
-### 11. [Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery](https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102)
+### 12. [Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery](https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102)
 - **Source:** MIT News AI · **Published:** 2026-11-02
 - **Feed summary:** The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific
 breakthrough that is widely recognized as a milestone in AI-driven drug discovery.
 
-### 12. [MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows](https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030)
-- **Source:** MIT News AI · **Published:** 2026-10-30
-- **Feed summary:** Five MIT faculty members and two additional alumni are honored with fellowships to advance
-research on beneficial AI.
-
 ## Feed warnings
 
-- Google DeepMind Blog: not well-formed (invalid token): line 1, column 0
 - VentureBeat AI: HTTP Error 429: Too Many Requests
 
 ## Automation note
