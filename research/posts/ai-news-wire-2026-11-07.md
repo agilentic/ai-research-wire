@@ -1,14 +1,14 @@
 ---
 title: "AI News Wire — 2026-11-07"
-description: "Automated AI news brief from Google DeepMind Blog, Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-06."
+description: "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-06."
 date: "2026-11-07"
-tags: [ai-news, research-wire, academia, ai, deepmind, frontier-models, mlops, open-source, openai, research]
+tags: [ai-news, research-wire, academia, ai, frontier-models, mlops, open-source, openai]
 category: "AI News Briefs"
 status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-11-07 11:40 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-11-07 20:50 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -41,30 +41,33 @@ work gets done.
 ### 7. [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-05
 
-### 8. [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/)
-- **Source:** Google DeepMind Blog · **Published:** 2026-11-05
-
-### 9. [Australian universities are creating AI-native graduates](https://openai.com/index/australian-universities-ai-native-graduates)
+### 8. [Australian universities are creating AI-native graduates](https://openai.com/index/australian-universities-ai-native-graduates)
 - **Source:** OpenAI News · **Published:** 2026-11-05
 - **Feed summary:** Australian universities are expanding access to ChatGPT and bringing AI into teaching and
 learning to prepare students for an AI-enabled workforce.
 
-### 10. [Clearing up a robot’s fuzzy memory](https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105)
+### 9. [Clearing up a robot’s fuzzy memory](https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105)
 - **Source:** MIT News AI · **Published:** 2026-11-05
 - **Feed summary:** A new system identifies and corrects unreliable object descriptions stored in a robot’s memory,
 improving the robot’s ability to interact with its environment.
 
-### 11. [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
+### 10. [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-05
 
-### 12. [Building connections across the research infrastructure](https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103)
+### 11. [Building connections across the research infrastructure](https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103)
 - **Source:** MIT News AI · **Published:** 2026-11-03
 - **Feed summary:** MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology
 professionals from across the nation to explore ways to make shared-access facilities more
 connected.
 
+### 12. [Powering up for a pivotal moment](https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102)
+- **Source:** MIT News AI · **Published:** 2026-11-02
+- **Feed summary:** From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked
+deployment of today’s technologies to discovery of tomorrow’s breakthroughs.
+
 ## Feed warnings
 
+- Google DeepMind Blog: not well-formed (invalid token): line 1, column 0
 - VentureBeat AI: HTTP Error 429: Too Many Requests
 
 ## Automation note
