@@ -8,63 +8,58 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-11-10 13:24 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-11-10 22:19 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
-### 1. [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
+### 1. [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)
+- **Source:** Google DeepMind Blog · **Published:** 2026-11-10
+
+### 2. [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
 - **Source:** Google DeepMind Blog · **Published:** 2026-11-10
 - **Feed summary:** AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core
 encryption.
 
-### 2. [Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)
+### 3. [Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)
 - **Source:** OpenAI News · **Published:** 2026-11-10
 - **Feed summary:** OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities,
 helping them build practical AI skills for everyday life.
 
-### 3. [Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)
+### 4. [Introducing Businesses in ChatGPT](https://openai.com/index/introducing-businesses-chatgpt)
+- **Source:** OpenAI News · **Published:** 2026-11-10
+- **Feed summary:** Manage your business information, get insights about how your business shows up, and turn
+interest into action in ChatGPT.
+
+### 5. [Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)
 - **Source:** OpenAI News · **Published:** 2026-11-10
 - **Feed summary:** New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting
 teachers, AI literacy, and independent learning.
 
-### 4. [MIT-led team receives funding to develop next-generation alternatives to modern weed killers](https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110)
+### 6. [Work at the Frontier: AI’s effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
+- **Source:** OpenAI News · **Published:** 2026-11-10
+- **Feed summary:** New research from OpenAI and Upwork finds shifting demand for freelance work, new skill
+combinations, and larger budgets and more hours for AI-related projects.
+
+### 7. [MIT-led team receives funding to develop next-generation alternatives to modern weed killers](https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110)
 - **Source:** MIT News AI · **Published:** 2026-11-10
 - **Feed summary:** With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides
 that reduce dependence on imports and improve the security of the U.S. food supply.
 
-### 5. [ChatGPT Enterprise now available in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace)
-- **Source:** OpenAI News · **Published:** 2026-11-09
-- **Feed summary:** ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify
-procurement through existing AWS purchasing and billing relationships.
+### 8. [Pay for Hugging Face Hub with your Google Cloud Account](https://huggingface.co/blog/hub-gcp-marketplace)
+- **Source:** Hugging Face Blog · **Published:** 2026-11-10
 
-### 6. [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
+### 9. [Decision Models in Hugging Face](https://huggingface.co/blog/decision)
+- **Source:** Hugging Face Blog · **Published:** 2026-11-10
+
+### 10. [Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)
+- **Source:** Google DeepMind Blog · **Published:** 2026-11-09
+- **Feed summary:** Our most capable vision-language-action model enhances robot dexterity, reliability, and safety
+
+### 11. [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-09
 
-### 7. [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room)
-- **Source:** OpenAI News · **Published:** 2026-11-09
-- **Feed summary:** Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and
-can rapidly stop them when safety or security concerns arise.
-
-### 8. [Your Experts Have Partners. There's HOPE for Keeping Them Together](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
+### 12. [Your Experts Have Partners. There's HOPE for Keeping Them Together](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-09
-
-### 9. [A single AI model simulates the behavior of many substances, from sliding sand to folding proteins](https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109)
-- **Source:** MIT News AI · **Published:** 2026-11-09
-- **Feed summary:** By learning how matter moves, the WorldParticle system could assist with developing soft robots,
-medicines, and more.
-
-### 10. [AI-assisted learning platform helps robots reason beyond literal commands](https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109)
-- **Source:** MIT News AI · **Published:** 2026-11-09
-- **Feed summary:** The new approach, known as FLEX, could lead to more intuitive, interactive household and
-assistive robots.
-
-### 11. [How to predict the behavior of molecules from scant data](https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106)
-- **Source:** MIT News AI · **Published:** 2026-11-06
-- **Feed summary:** A machine-learning approach called CheMeleon provides a practical way to develop new drugs or
-other molecules with much less detailed, expensive experimentation.
-
-### 12. [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks)
-- **Source:** Hugging Face Blog · **Published:** 2026-11-06
 
 ## Feed warnings
 
