@@ -1,14 +1,14 @@
 ---
 title: "AI News Wire — 2026-11-11"
-description: "Automated AI news brief from Google DeepMind Blog, Hugging Face Blog, MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-11-12."
+description: "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-11-12."
 date: "2026-11-11"
-tags: [ai-news, research-wire, academia, ai, arxiv, deepmind, frontier-models, mlops, open-source, openai]
+tags: [ai-news, research-wire, academia, ai, arxiv, frontier-models, mlops, open-source, openai, research]
 category: "AI News Briefs"
 status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-11-11 12:39 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-11-11 23:25 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -48,31 +48,30 @@ at generation time have so far been trained to detect harmful content and are li
 disaster prevention. However, existing models primarily focus on isolated visual tasks, require
 extensive labeled data, and lack deep analytical and scene-understanding…
 
-### 8. [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)
-- **Source:** Google DeepMind Blog · **Published:** 2026-11-10
+### 8. [JioStar’s chief architect on AI discovery at 500M-user scale](https://openai.com/index/jiostar-vijay-seshadri)
+- **Source:** OpenAI News · **Published:** 2026-11-11
+- **Feed summary:** JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals,
+guardrails, and taking AI into production.
 
-### 9. [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
-- **Source:** Google DeepMind Blog · **Published:** 2026-11-10
-- **Feed summary:** AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core
-encryption.
+### 9. [Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling)
+- **Source:** Hugging Face Blog · **Published:** 2026-11-11
 
 ### 10. [Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)
 - **Source:** OpenAI News · **Published:** 2026-11-10
 - **Feed summary:** OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities,
 helping them build practical AI skills for everyday life.
 
-### 11. [Introducing Businesses in ChatGPT](https://openai.com/index/introducing-businesses-chatgpt)
-- **Source:** OpenAI News · **Published:** 2026-11-10
-- **Feed summary:** Manage your business information, get insights about how your business shows up, and turn
-interest into action in ChatGPT.
-
-### 12. [MIT-led team receives funding to develop next-generation alternatives to modern weed killers](https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110)
+### 11. [MIT-led team receives funding to develop next-generation alternatives to modern weed killers](https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110)
 - **Source:** MIT News AI · **Published:** 2026-11-10
 - **Feed summary:** With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides
 that reduce dependence on imports and improve the security of the U.S. food supply.
 
+### 12. [Pay for Hugging Face Hub with your Google Cloud Account](https://huggingface.co/blog/hub-gcp-marketplace)
+- **Source:** Hugging Face Blog · **Published:** 2026-11-10
+
 ## Feed warnings
 
+- Google DeepMind Blog: not well-formed (invalid token): line 1, column 0
 - VentureBeat AI: HTTP Error 429: Too Many Requests
 
 ## Automation note
