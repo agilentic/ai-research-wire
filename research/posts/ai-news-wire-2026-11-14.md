@@ -8,7 +8,7 @@ status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-11-14 12:05 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-11-14 21:24 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -72,6 +72,7 @@ algorithm are named among the year's most significant innovations.
 
 ## Feed warnings
 
+- Google DeepMind Blog: not well-formed (invalid token): line 1, column 0
 - VentureBeat AI: HTTP Error 429: Too Many Requests
 
 ## Automation note
