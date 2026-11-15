@@ -1,14 +1,14 @@
 ---
 title: "AI News Wire — 2026-11-15"
-description: "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-13."
+description: "Automated AI news brief from Google DeepMind Blog, Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-13."
 date: "2026-11-15"
-tags: [ai-news, research-wire, academia, ai, frontier-models, mlops, open-source, openai]
+tags: [ai-news, research-wire, academia, ai, deepmind, frontier-models, mlops, open-source, openai, research]
 category: "AI News Briefs"
 status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-11-15 12:40 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-11-15 21:42 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -54,19 +54,16 @@ build, helps teams ship changes with coding agents, and measures the impact.
 ### 10. [LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-12
 
-### 11. [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola)
+### 11. [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
+- **Source:** Google DeepMind Blog · **Published:** 2026-11-12
+
+### 12. [Gondola doubles revenue as its team builds more with Codex](https://openai.com/business/customer-stories/gondola)
 - **Source:** OpenAI News · **Published:** 2026-11-12
 - **Feed summary:** Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output
 by 50% and ChatGPT simplifying daily work.
 
-### 12. [New research could lead to faster, trustworthy AI models for climate prediction](https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112)
-- **Source:** MIT News AI · **Published:** 2026-11-12
-- **Feed summary:** MIT scientists developed a training method to generate models that simulate the effects of human
-activities on climate much more quickly than other approaches.
-
 ## Feed warnings
 
-- Google DeepMind Blog: not well-formed (invalid token): line 1, column 0
 - VentureBeat AI: HTTP Error 429: Too Many Requests
 
 ## Automation note
