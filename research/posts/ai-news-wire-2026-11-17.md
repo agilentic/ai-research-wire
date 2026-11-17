@@ -1,73 +1,68 @@
 ---
 title: "AI News Wire — 2026-11-17"
-description: "Automated AI news brief from Hugging Face Blog, OpenAI News, arXiv cs.AI. Newest source item: 2026-11-16."
+description: "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-17."
 date: "2026-11-17"
-tags: [ai-news, research-wire, arxiv, frontier-models, mlops, open-source, openai, research]
+tags: [ai-news, research-wire, academia, ai, frontier-models, mlops, open-source, openai]
 category: "AI News Briefs"
 status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-11-17 00:45 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-11-17 14:17 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
-### 1. [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
+### 1. [Q&A: Why building math muscles remains important in the AI era](https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117)
+- **Source:** MIT News AI · **Published:** 2026-11-17
+- **Feed summary:** Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is
+still essential despite the evolution of AI tools.
+
+### 2. [Learning the language of machine learning](https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117)
+- **Source:** MIT News AI · **Published:** 2026-11-17
+- **Feed summary:** By studying the computational foundations of language learning, Associate Professor Jacob
+Andreas builds intelligent systems that can communicate effectively with humans.
+
+### 3. [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)
+- **Source:** OpenAI News · **Published:** 2026-11-17
+- **Feed summary:** How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find
+vulnerabilities, test fixes and protect essential systems.
+
+### 4. [Introducing OpenAI for Chile](https://openai.com/index/introducing-openai-for-chile)
+- **Source:** OpenAI News · **Published:** 2026-11-17
+- **Feed summary:** OpenAI and the Government of Chile are partnering to support responsible AI adoption, build
+public-sector skills and help local startups develop AI applications.
+
+### 5. [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
 - **Source:** OpenAI News · **Published:** 2026-11-16
 - **Feed summary:** We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers
 worldwide free access to our frontier models.
 
-### 2. [Strengthening the fight against online child sexual abuse with new tools and support](https://openai.com/index/strengthening-online-child-safety)
+### 6. [Strengthening the fight against online child sexual abuse with new tools and support](https://openai.com/index/strengthening-online-child-safety)
 - **Source:** OpenAI News · **Published:** 2026-11-16
 - **Feed summary:** New tools, practical guidance, and partnerships will help prevent, detect and respond to online
 child sexual exploitation and abuse.
 
-### 3. [Science at the Frontier: How scientists use ChatGPT](https://openai.com/index/science-at-the-frontier)
-- **Source:** OpenAI News · **Published:** 2026-11-16
-- **Feed summary:** Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows,
-reported productivity, and expectations for discovery.
-
-### 4. [LVMH’s Media Division announces strategic partnership with OpenAI](https://openai.com/index/lvmh-media-division-partnership)
-- **Source:** OpenAI News · **Published:** 2026-11-16
-- **Feed summary:** LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make
-its publications more accessible through ChatGPT.
-
-### 5. [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](https://arxiv.org/abs/2611.17338)
-- **Source:** arXiv cs.AI · **Published:** 2026-11-16
-- **Feed summary:** arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified
-as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver
-errors delete query-critical facts. Across three models, a controlled sensitivity…
-
-### 6. [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](https://arxiv.org/abs/2611.17339)
-- **Source:** arXiv cs.AI · **Published:** 2026-11-16
-- **Feed summary:** arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language
-models is dominated by methods evaluated on 7B-70B research models with abundant sampling
-budgets and exact-match or ROUGE correctness labels. The small models practitioners actually
-ship…
-
-### 7. [LoRAWeaver: Directional Adapter Routing in LoRA Representation Space](https://arxiv.org/abs/2611.17340)
-- **Source:** arXiv cs.AI · **Published:** 2026-11-16
-- **Feed summary:** arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update
-through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but
-repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool…
-
-### 8. [Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction](https://arxiv.org/abs/2611.17341)
-- **Source:** arXiv cs.AI · **Published:** 2026-11-16
-- **Feed summary:** arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health
-records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems
-often treat it like open ended case based reasoning: retrieve similar patient admissions and…
-
-### 9. [Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter)
+### 7. [Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-16
 
-### 10. [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
+### 8. [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-13
 
-### 11. [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)
+### 9. [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-13
 
-### 12. [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+### 10. [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-13
+
+### 11. [New AI “copilot” helps engineers design better structures](https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113)
+- **Source:** MIT News AI · **Published:** 2026-11-13
+- **Feed summary:** The system asks humans for feedback to increase trust in machine-generated designs for buildings
+and bridges.
+
+### 12. [Helping robots fit into the human workplace](https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113)
+- **Source:** MIT News AI · **Published:** 2026-11-13
+- **Feed summary:** Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots
+are designed to collaborate with humans in factories and warehouses.
 
 ## Feed warnings
 
