@@ -1,5 +1,27 @@
 [
   {
+    "slug": "ai-news-wire-2026-11-18",
+    "title": "AI News Wire — 2026-11-18",
+    "description": "Automated AI news brief from MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-11-18.",
+    "date": "2026-11-18",
+    "updated": null,
+    "tags": [
+      "ai-news",
+      "research-wire",
+      "academia",
+      "ai",
+      "arxiv",
+      "frontier-models",
+      "openai",
+      "research"
+    ],
+    "category": "AI News Briefs",
+    "status": "brief",
+    "featured": false,
+    "readingTime": "4 min read",
+    "url": "/research/ai-news-wire-2026-11-18/"
+  },
+  {
     "slug": "ai-news-wire-2026-11-17",
     "title": "AI News Wire — 2026-11-17",
     "description": "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-17.",
