@@ -1,80 +1,74 @@
 ---
 title: "AI News Wire — 2026-11-18"
-description: "Automated AI news brief from MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-11-18."
+description: "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News, arXiv cs.AI. Newest source item: 2026-11-18."
 date: "2026-11-18"
-tags: [ai-news, research-wire, academia, ai, arxiv, frontier-models, openai, research]
+tags: [ai-news, research-wire, academia, ai, arxiv, frontier-models, mlops, open-source, openai, research]
 category: "AI News Briefs"
 status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-11-18 13:52 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-11-18 23:21 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
-### 1. [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](https://arxiv.org/abs/2611.21682)
+### 1. [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+- **Source:** Hugging Face Blog · **Published:** 2026-11-18
+
+### 2. [This featherweight, flying robot carries its own sensors and computers](https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118)
+- **Source:** MIT News AI · **Published:** 2026-11-18
+- **Feed summary:** The speedy microrobot flies without an attached motion-capture system, moving it closer to
+applications like agriculture or industrial surveillance.
+
+### 3. [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
+- **Source:** Hugging Face Blog · **Published:** 2026-11-18
+
+### 4. [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
+- **Source:** Hugging Face Blog · **Published:** 2026-11-18
+
+### 5. [The Silent Consensus](https://openai.com/index/the-silent-consensus)
+- **Source:** OpenAI News · **Published:** 2026-11-18
+- **Feed summary:** Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape
+society and how people can retain control of their institutions.
+
+### 6. [Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)
+- **Source:** OpenAI News · **Published:** 2026-11-18
+- **Feed summary:** OpenAI measures how coding agents are accelerating AI research, where their performance remains
+uneven, and what this signals about recursive self-improvement.
+
+### 7. [Inside the Codex sandbox](https://openai.com/index/inside-the-codex-sandbox)
+- **Source:** OpenAI News · **Published:** 2026-11-18
+- **Feed summary:** See how Codex runs commands on your machine while enforcing the filesystem and network limits
+you control across macOS, Linux, and Windows.
+
+### 8. [Managing frontier AI risk: From training to deployment](https://openai.com/index/managing-frontier-ai-risk)
+- **Source:** OpenAI News · **Published:** 2026-11-18
+- **Feed summary:** OpenAI explains how it manages frontier AI risk from training through deployment with model
+alignment, sandboxing, blocking safeguards, and monitoring.
+
+### 9. [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](https://arxiv.org/abs/2611.21682)
 - **Source:** arXiv cs.AI · **Published:** 2026-11-18
 - **Feed summary:** arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly
 being explored for knowledge-intensive and safety-critical applications in nuclear engineering.
 However, existing nuclear-domain benchmarks provide limited content coverage or focus…
 
-### 2. [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.21799)
+### 10. [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.21799)
 - **Source:** arXiv cs.AI · **Published:** 2026-11-18
 - **Feed summary:** arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising
 tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is
 that models could deliberately shape their reasoning to make it opaque to monitors.…
 
-### 3. [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](https://arxiv.org/abs/2611.21827)
+### 11. [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](https://arxiv.org/abs/2611.21827)
 - **Source:** arXiv cs.AI · **Published:** 2026-11-18
 - **Feed summary:** arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR
 vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much
 of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3…
 
-### 4. [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](https://arxiv.org/abs/2611.21832)
+### 12. [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](https://arxiv.org/abs/2611.21832)
 - **Source:** arXiv cs.AI · **Published:** 2026-11-18
 - **Feed summary:** arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate
 AI R&D, misaligned systems could sabotage research intended to improve model safety and
 alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy…
-
-### 5. [Helping AI text detectors keep up with changing conditions](https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118)
-- **Source:** MIT News AI · **Published:** 2026-11-18
-- **Feed summary:** A more flexible training method can make AI text detectors more robust when new models emerge or
-AI-generated text is disguised to appear human.
-
-### 6. [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
-- **Source:** OpenAI News · **Published:** 2026-11-18
-- **Feed summary:** Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries
-and excerpts, with links to original stories.
-
-### 7. [Putting a spotlight on AI, society, and humanity](https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117)
-- **Source:** MIT News AI · **Published:** 2026-11-17
-- **Feed summary:** Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the
-human experience and reshaping higher education.
-
-### 8. [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)
-- **Source:** OpenAI News · **Published:** 2026-11-17
-- **Feed summary:** Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and
-efficiency at lower cost across ChatGPT Work, Codex, and the API.
-
-### 9. [Introducing ChatGPT for Sales](https://openai.com/index/introducing-chatgpt-for-sales)
-- **Source:** OpenAI News · **Published:** 2026-11-17
-- **Feed summary:** Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research
-prospects, prepare pitches, update your CRM, and move deals forward.
-
-### 10. [Q&A: Why building math muscles remains important in the AI era](https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117)
-- **Source:** MIT News AI · **Published:** 2026-11-17
-- **Feed summary:** Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is
-still essential despite the evolution of AI tools.
-
-### 11. [Learning the language of machine learning](https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117)
-- **Source:** MIT News AI · **Published:** 2026-11-17
-- **Feed summary:** By studying the computational foundations of language learning, Associate Professor Jacob
-Andreas builds intelligent systems that can communicate effectively with humans.
-
-### 12. [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)
-- **Source:** OpenAI News · **Published:** 2026-11-17
-- **Feed summary:** How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find
-vulnerabilities, test fixes and protect essential systems.
 
 ## Feed warnings
 
