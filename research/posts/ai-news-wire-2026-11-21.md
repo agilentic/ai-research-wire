@@ -1,14 +1,14 @@
 ---
 title: "AI News Wire — 2026-11-21"
-description: "Automated AI news brief from Google DeepMind Blog, Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-20."
+description: "Automated AI news brief from Hugging Face Blog, MIT News AI, OpenAI News. Newest source item: 2026-11-20."
 date: "2026-11-21"
-tags: [ai-news, research-wire, academia, ai, deepmind, frontier-models, mlops, open-source, openai, research]
+tags: [ai-news, research-wire, academia, ai, frontier-models, mlops, open-source, openai]
 category: "AI News Briefs"
 status: "brief"
 author: "Agilentic News Bot"
 ---
 
-This automated brief was generated at **2026-11-21 13:24 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
+This automated brief was generated at **2026-11-21 22:09 UTC** from public RSS/Atom feeds. It is a link digest, not an endorsement.
 
 ## Top links
 
@@ -59,14 +59,15 @@ scrutinize and reuse published research.
 - **Feed summary:** Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds
 and fixes performance issues to help keep ChatGPT fast.
 
-### 11. [Introducing Gemini 4 Neon](https://deepmind.google/blog/introducing-gemini-4-neon/)
-- **Source:** Google DeepMind Blog · **Published:** 2026-11-18
+### 11. [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+- **Source:** Hugging Face Blog · **Published:** 2026-11-18
 
-### 12. [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+### 12. [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
 - **Source:** Hugging Face Blog · **Published:** 2026-11-18
 
 ## Feed warnings
 
+- Google DeepMind Blog: not well-formed (invalid token): line 1, column 0
 - VentureBeat AI: HTTP Error 429: Too Many Requests
 
 ## Automation note
